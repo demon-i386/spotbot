@@ -10,7 +10,7 @@ Automação usada para fraudar métricas, manipular contagens ou violar polític
 ## 🧩 Configuração
 
 A configuração é feita **diretamente no código**.  
-Abra o arquivo principal (`spotbot.py`, `main.py`, etc.) e edite as seguintes variáveis no início do código:
+Abra o arquivo principal (`exploit.py`) e edite as seguintes variáveis no início do código:
 
 ```python
 # --- CONFIGURAÇÃO (edite aqui) ---
